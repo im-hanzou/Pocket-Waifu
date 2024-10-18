@@ -1,0 +1,9 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "upgradeBoosts": true,
+  "howManyLevels_MultiTap": 5,
+  "howManyLevels_EneryLimit": 5,
+  "buyWaifuCards": true
+}
